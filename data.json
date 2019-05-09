@@ -1,0 +1,94 @@
+{
+	"name": "Campus 1",
+	"children": [
+     {
+		"name": "Facility 1",
+		"children": [{
+			"name": "pMon 1",
+			"score": 90,
+            "credicality": 8
+		}, {
+			"name": "pMon 2",
+			"score": 22,
+            "credicality": 5
+		}, {
+			"name": "pMon 3",
+			"score": 80,
+            "credicality": 2
+		}, {
+			"name": "pMon 4",
+			"score": 25,
+            "credicality": 6
+		}, {
+			"name": "pMon 5",
+			"score": 16,
+            "credicality": 9
+		}, {
+			"name": "pMon 6",
+			"score": 100,
+            "credicality": 10
+		}]
+	}, {
+		"name": "Facility 2",
+		"children": [{
+			"name": "pMon 7",
+			"score": 4,
+            "credicality": 7
+		}, {
+			"name": "pMon 8",
+			"score": 22,
+            "credicality": 4
+		}]
+	}, {
+		"name": "pMon 16",
+        "score": 46,
+        "credicality": 2
+	}, {
+		"name": "1st Floor",
+		"children": [{
+			"name": "pMon 9",
+			"score": 50,
+            "credicality": 3,
+			"children": [{
+				"name": "extra",
+				"score": 22,
+                "credicality": 2
+			}]
+		}, {
+			"name": "pMon 10",
+			"score": 25,
+            "credicality": 8
+		}, {
+			"name": "pMon 11",
+			"score": 24,
+            "credicality": 7
+		}, {
+			"name": "pMon 12",
+			"score": 2,
+            "credicality": 9
+		}, {
+			"name": "pMon 13",
+			"score": 62,
+            "credicality": 3
+		}]
+	}, {
+		"name": "pMon 17",
+        "score": 53,
+        "credicality": 1
+	}, {
+		"name": "pMon 18",
+        "score": 17,
+        "credicality": 10
+	}, {
+		"name": "4th Floor",
+		"children": [{
+			"name": "pMon 14",
+			"score": 98,
+            "credicality": 4
+		}, {
+			"name": "pMon 15",
+			"score": 11,
+            "credicality": 5
+		}]
+	}]
+}
