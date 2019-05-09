@@ -1,4 +1,4 @@
-//<script src="https://d3js.org/d3.v3.min.js"></script>
+
 // Size/state related variables
 var width = 560,
     height = 500,
