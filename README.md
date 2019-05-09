@@ -9,7 +9,7 @@ When users hover over one part of the circle, the respective data it represents 
 When clicked, the circles will turn smaller, displaying the make-up of the respective data entry in detail.
 Users can go back to the top level of all data by clicking in the center of the circles.
 
-Please note that the bulk of the project is built upon existing code online,
-and I had to customize the experience that allows users to explore data in detail, switching between the high level and granular view by hovering or clicking on different parts of the circles.
+Please note that the bulk of the project is built upon existing code online (https://bl.ocks.org/vasturiano/12da9071095fbd4df434e60d52d2d58d),
+and I had to customize the experience that allows users to explore data in detail, switching between the high level and granular view by displaying info when hovered or clicked.
 
 Also note that it might not show up on your browser, since it's only visible on FireFox.
