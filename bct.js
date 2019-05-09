@@ -17,16 +17,6 @@ var x = d3.scale.linear()
     .domain([0, 100])
     .range(['#f2a713', '#f6c768', '#c3cce3', '#b0bbda', '#9caad1', '#8899c8', '#7488bf', '#6177b6', '#4d66ad', '#3955a4']);
 
-//    color = d3.scale.quantize()
-//    .domain([0, 100])
-//    .range(['#F36B19', '#596CAA', '#334086', '#1D2082', '#100E74']);
-
-//.range(['#ff6666', '#ffd27f', '#ffff7f', '#99cc99']);
-
-//    color_danger = color = d3.scale.quantize()
-//    .domain([0, 100])
-//    .range(['red', '#ffd27f', '#ffff7f', '#99cc99']);
-
 // Partition layout
 var partition = d3.layout.partition()
     .value(function (d) {
