@@ -10,5 +10,6 @@ When clicked, the circles will turn smaller, displaying the make-up of the respe
 Users can go back to the top level of all data by clicking in the center of the circles.
 
 Please note that the bulk of the project is built upon existing code online,
-and I had to customize the experience that allows users to explore data in detail, switching between the high level and granular
-view by hovering or clicking on different parts of the circles.
+and I had to customize the experience that allows users to explore data in detail, switching between the high level and granular view by hovering or clicking on different parts of the circles.
+
+Also note that it might not show up on your browser, since it's only visible on FireFox.
