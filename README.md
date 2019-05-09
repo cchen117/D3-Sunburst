@@ -13,3 +13,5 @@ Please note that the bulk of the project is built upon existing code online (htt
 and I had to customize the experience that allows users to explore data in detail, switching between the high level and granular view by displaying info when hovered or clicked.
 
 Also note that it might not show up on your browser, since it's only visible on FireFox.
+
+![](sunburst.gif)
